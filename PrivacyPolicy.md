@@ -1,4 +1,4 @@
-*
+# Privacy Policy
 What we collect
 This app doesn't log any kind of data from you.
 
