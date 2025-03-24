@@ -4,6 +4,9 @@ A switch to enable/disable Pi-hole v6 blocking from the Mac menu bar or your iOS
 ## Support
 Please open a ticket under [Issues Tab](https://github.com/cyclistguy/Pi-hole-Switch/issues) for any support requests, bugs and feature requests.
 
+## FAQs
+Visit the projects [wiki](https://github.com/cyclistguy/Pi-hole-Switch/wiki).
+
 ## Pi-hole Switch for iOS
 Pi-hole Switch is a lightweight, intuitive iOS app that provides convenient control over your Pi-hole DNS ad blockers. This app allows you to quickly enable or disable ad blocking across one or multiple Pi-hole instances with just a few taps, without having to access the Pi-hole admin interface.
 ### Key Features
