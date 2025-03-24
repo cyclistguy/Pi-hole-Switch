@@ -23,7 +23,6 @@ Pi-hole Switch is a lightweight, intuitive iOS app that provides convenient cont
 Perfect for network administrators and home users who want quick, convenient control over their Pi-hole ad blocking on the go, whether you're troubleshooting website issues or temporarily disabling ad blocking for specific services.
 
 ![English  en  | iPhone - 6 9  Display - 1 | 2025-03-23_20-38-00](https://github.com/user-attachments/assets/268cf676-ed81-4c35-87a6-1b07f9d24507)
-![English  en  | iPhone - 6 9  Display - 2 | 2025-03-23_20-38-00](https://github.com/user-attachments/assets/31545aa8-236d-43bd-9f42-98be09ee8e97)
 ![English  en  | iPhone - 6 9  Display - 3 | 2025-03-23_20-38-00](https://github.com/user-attachments/assets/d2250b2c-860b-4920-addd-a04965a869ee)
 
 
