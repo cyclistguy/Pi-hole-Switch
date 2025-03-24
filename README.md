@@ -1,5 +1,5 @@
 # Pi-hole-Switch
-A switch to enable/disable Pi-hole v6 blocking from the menubar or in your iOS device.
+A switch to enable/disable Pi-hole v6 blocking from the Mac menu bar or your iOS device.
 
 ## Support
 Please open a ticket under [Issues Tab](https://github.com/cyclistguy/Pi-hole-Switch/issues) for any support requests, bugs and feature requests.
